@@ -2,6 +2,10 @@
 
 This is the awsome macro photography links page. If you like to add things, please either create a pull request or send e-mail to laszewski@gmail.com
 
+## In camera stacking
+
+* [video R7](https://www.youtube.com/watch?v=bJOtUBSCWbQ)
+
 ## Macro Rails
 
 ### Mechanical Macro Rails

@@ -4,7 +4,7 @@ This is the awsome macro photography links page. If you like to add things, plea
 
 ## Macro Rails
 
-### Mechanical
+### Mechanical Macro Rails
 
 prices fund Januarry 2022, rounded up to the next dollar value
 
@@ -16,13 +16,29 @@ prices fund Januarry 2022, rounded up to the next dollar value
 * [NiSI NM-200 ~$200](https://www.amazon.com/NM-200-Macro-Focusing-Close-Up-Photography/dp/B0B4Z5TC8X/ref=sr_1_3?keywords=macro+focusing+rail&qid=1673610572&sr=8-3&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0)
 
 
-### Motorized
+### Motorized Macro Rails
 
+* [ebay](https://www.ebay.com/itm/202754159812?_ul=EC)
 
+### Rental
 
+* [Stackshot 3x](https://www.lensrentals.com/rent/cognisys-stackshot-3x-macro-rail-package) ($83 for 7 days) remember sending back may take time.
 
+### DIY
+
+* [Adruino based](https://projecthub.arduino.cc/MacroPhotoFan_2004/89d7e85e-1c44-4d95-986b-eb9992d1ebb6)
+* [On Printables](https://www.printables.com/model/219042-motorized-camera-rail-for-macro-photography/collections)
+
+### Shops
+
+I can not attest to if these sites are reputable sites
+
+* [FlaMicoz](https://flamicroz.com/en/39--macro-focusing-rail-) Has a variety of rail. Pries in Euro 
+* [Keh used](https://www.keh.com/shop/search?q=macro+rail)
 
 ## Lenses
+
+
 
 ### Microsopy Lenses
 
@@ -30,3 +46,5 @@ prices fund Januarry 2022, rounded up to the next dollar value
 ## Extension Tubes
 
 ## Streamers
+
+* [Allen Walls](https://www.allanwallsphotography.com/)

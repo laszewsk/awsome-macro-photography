@@ -20,7 +20,7 @@ prices fund Januarry 2022, rounded up to the next dollar value. Shipping cost ma
 
 * [ebay](https://www.ebay.com/itm/202754159812?_ul=EC) ~$140
 * [WeMacro Rail](https://www.wemacro.com/US/index.php/product/wemacro-rail-with-power-bank-cable-for-outside/) ~$320
-* [https://www.miops.com/products/slider](https://www.miops.com/products/slider) ~$400 It is a slider that functions also as macro rail with 1.41um resolution
+* [MIOPS Slider+](https://www.miops.com/products/slider) ~$400 It is a slider that functions also as macro rail with 1.41um resolution
 * [STACKSHOT MACRO RAIL PACKAGE](https://cognisys-inc.com/stackshot-macro-rail-package.html) ~$579
 * [Black Forest Motion](https://blackforestmotion.com/en/products/macro-slider/) ~€673, Bundle ~€901
 * [Novoflex Castle Micro](https://www.novoflex.de/en/focusing-rack-castel-micro/castel-micro-en.html) ~€1900

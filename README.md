@@ -63,4 +63,6 @@ I can not attest to if these sites are reputable sites
 
 ## Streamers
 
-* [Allen Walls](https://www.allanwallsphotography.com/)
+* [Allan Walls Youtube](https://www.youtube.com/@AllanWallsPhotography)
+  [Allen Walls Web Site](https://www.allanwallsphotography.com/) 
+* [Micael Widell Youtube](https://www.youtube.com/@MicaelWidell)

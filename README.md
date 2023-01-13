@@ -57,6 +57,16 @@ I can not attest to if these sites are reputable sites
 
 ## Extension Tubes
 
+### Canon EF Mount
+
+* [Viltrox 12mm 20mm 36mm](https://www.amazon.com/Viltrox-Metal-Mount-Extension-Camera/dp/B07JK64C7Y/ref=sr_1_5?crid=2TRR5CVEO1CV&keywords=Canon+Extension+Tube&qid=1673615933&refinements=p_n_condition-type%3A2224371011&rnid=2224369011&s=electronics&sprefix=canon+extension+tube%2Caps%2C140&sr=1-5) ~$43
+* [Kenko AF Set](https://www.amazon.com/Kenko-Auto-Extension-Canon-Mount/dp/B000U8Y88M) ~$130, preowned at keh about $75
+* [Canon Extension Tube EF 12 II](https://www.amazon.com/Canon-Extension-Tube-Digital-Cameras/dp/B0000DZ5OE/ref=sr_1_1?crid=BXWP4VPTAYYE&keywords=Canon+Extension+Tube+EF+12+II&qid=1673616039&sprefix=canon+extension+tube+ef+12+ii%2Caps%2C108&sr=8-1) ~$90
+* [Canon Extension Tube EF 25 II](https://www.amazon.com/Canon-Extension-Tube-Digital-Cameras/dp/B0000U1N38/ref=sr_1_3?crid=1JKOJ6RS20Y94&keywords=Canon+Extension+Tube+EF+25+II&qid=1673615812&sprefix=canon+extension+tube+ef+25+ii%2Caps%2C158&sr=8-3&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0) ~$145, cheaper available ~$125 elsewhere
+
+### RF Mount
+
+* [Meike MK-RF-AF1 13mm + 18mm](https://www.amazon.com/Meike-MK-RF-AF1-Extension-Adapter-Cameras/dp/B07T1CY6BS/ref=sr_1_6?crid=2TRR5CVEO1CV&keywords=Canon+Extension+Tube&qid=1673615882&refinements=p_n_condition-type%3A2224371011&rnid=2224369011&s=electronics&sprefix=canon+extension+tube%2Caps%2C140&sr=1-6)
 ## Software
 
 * [Helicon](https://www.heliconsoft.com/helicon-remote-stackshot/)

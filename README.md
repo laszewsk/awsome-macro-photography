@@ -89,6 +89,10 @@ I can not attest to if these sites are reputable sites
 * [UTEBIT 50mm Arca Swiss Quick Release Plate Aluminum QR Clamp Adapter Set with 3/8"&1/4" Screw Hole and Built-in Bubble Level](https://www.amazon.com/gp/product/B06ZZQSJBN/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1) ~$10, cheap, comes with arca swiss plate
 * [FocusFoto P50 QR Clamp + 1/4" Quick Release Plate Set 50mm Adapter 3/8"](https://www.amazon.com/FocusFoto-Mounting-Universal-Compatible-Manfrotto/dp/B07F7CFZZF/ref=sr_1_14?crid=9NTLI4VHAW0M&keywords=arca+swiss+quick+release&qid=1673617312&s=electronics&sprefix=arca+swiss+quick+release%2Celectronics%2C150&sr=1-14) ~$14, has level instead of screw head, has security pin. 
 
+## Selected Monfrotto Adapters
+
+* [MEKNIC Camera Quick Release Plate Base Tripod Mount Adapter with QR Clamp Aluminum Alloy with 1/4" and 3/8" Screw Hole Compatible for Manfrotto 501HDV 503HDV 701HDV 577 519 561 Q5 7M1W](https://www.amazon.com/MEKNIC-Release-Aluminum-Compatible-Manfrotto/dp/B09FPDL25K/ref=psdc_3347851_t3_B06X3VSNF3) ~$15, real great plate, but I opted for arca swiss
+
 ## Streamers
 
 * [Allan Walls Youtube](https://www.youtube.com/@AllanWallsPhotography)

@@ -2,10 +2,13 @@
 
 This is the awsome macro photography links page. If you like to add things, please either create a pull request or send e-mail to laszewski@gmail.com
 
-## In camera stacking with R7
+## In camera bracketing  with R7
 
-* [Fabian Fopp video R7 f0cus brackiting](https://www.youtube.com/watch?v=bJOtUBSCWbQ) (German)[https://www.youtube.com/watch?v=dF02EDDsS1w]
-* [Phill THatch](https://www.youtube.com/watch?v=_lSnZARKxrA)
+Recent cameras such as the Canon R7 have fetures to allow Foocus bracketing. The advantage is that no specialized equipment is needed, but a tripod so the image is more stable. 
+Some tutorials that show how to do this are available on youtube, by various youtubers. I liked the vide from Fabian Foop as it explains how to do it and also identifies how to set the camera up easily.
+
+* [Fabian Fopp video R7 focus brackiting](https://www.youtube.com/watch?v=bJOtUBSCWbQ) [German] (https://www.youtube.com/watch?v=dF02EDDsS1w)
+* [Phill Thatch focus bracketing](https://www.youtube.com/watch?v=_lSnZARKxrA)
 
 
 ## Macro Rails

@@ -7,7 +7,7 @@ This is the awsome macro photography links page. If you like to add things, plea
 Recent cameras such as the Canon R7 have fetures to allow Foocus bracketing. The advantage is that no specialized equipment is needed, but a tripod so the image is more stable. 
 Some tutorials that show how to do this are available on youtube, by various youtubers. I liked the vide from Fabian Foop as it explains how to do it and also identifies how to set the camera up easily.
 
-* [Fabian Fopp video R7 focus brackiting](https://www.youtube.com/watch?v=bJOtUBSCWbQ) [German] (https://www.youtube.com/watch?v=dF02EDDsS1w)
+* [Fabian Fopp video R7 focus brackiting](https://www.youtube.com/watch?v=bJOtUBSCWbQ) [German](https://www.youtube.com/watch?v=dF02EDDsS1w)
 * [Phill Thatch focus bracketing](https://www.youtube.com/watch?v=_lSnZARKxrA)
 
 

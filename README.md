@@ -54,6 +54,7 @@ I can not attest to if these sites are reputable sites
 
 ### Microsopy Lenses
 
+* [AmScope 4X Plan Achromatic Objective Lens with Knurled Ring](https://www.amazon.com/gp/product/B01G4CCGRC/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) ~$23
 
 #### Adapters
 
@@ -61,6 +62,12 @@ I can not attest to if these sites are reputable sites
 * [ebay M42 to RMS Adapter Ring Microscope Objective RMS Thread to M42 Interface](https://www.ebay.com/itm/273877780529)
 
 ## Extension Tubes
+
+### M42
+
+* [Lens Adapter Ring Extension Tube Kit,camera Tube Telescope Covers,variable Tube Microscope Lens M42 Extension Tubes Microscope Accessories 3/5/7/10/15/20/30mm](https://www.amazon.com/gp/product/B09C11L5QL/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) ~$26. Warning, the 30 and 20mm did not fit properly in the m42 mount, but they do fit between each other. you need to find a combination that fits nicely. 
+* [Neewer Aluminum Alloy Lens Mount Adapter for M42 Lens to Canon EOS Camera](https://www.amazon.com/gp/product/B01HPMY8YE/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+* 
 
 ### Canon EF Mount
 
@@ -78,6 +85,10 @@ I can not attest to if these sites are reputable sites
 
 * [Fotasy M42 , various](https://www.amazon.com/Fotasy-Helicord-Focusing-Helicoid-Extention/dp/B00CPUSYLA?th=1) ~$20-$30
 
+## Bellows
+
+* [Vbestlife Macro Bellows Compatible with Canon for EOS EF Cameras, Plastic and Aluminum Alloy, Durable and Long Lasting](https://www.amazon.com/gp/product/B07PZ86Q15/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1) ~$32, not that stable, but good if you like to change macro factor. Not automatic. The screw that fixes it needs to be screwed in and out multiple times so that it loks to the plastic beam. 
+ 
 ## Software
 
 * [Helicon](https://www.heliconsoft.com/helicon-remote-stackshot/)
@@ -92,6 +103,24 @@ I can not attest to if these sites are reputable sites
 ## Selected Monfrotto Adapters
 
 * [MEKNIC Camera Quick Release Plate Base Tripod Mount Adapter with QR Clamp Aluminum Alloy with 1/4" and 3/8" Screw Hole Compatible for Manfrotto 501HDV 503HDV 701HDV 577 519 561 Q5 7M1W](https://www.amazon.com/MEKNIC-Release-Aluminum-Compatible-Manfrotto/dp/B09FPDL25K/ref=psdc_3347851_t3_B06X3VSNF3) ~$15, real great plate, but I opted for arca swiss
+
+## F38 Adapter
+
+I realy like the F38 adapters in general. 
+
+* [ULANZI F38 Camera Quick Release Plate w 1/4" to 3/8" Screw Thread, Quick Release System ](https://www.amazon.com/gp/product/B08P7GKR8W/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1) ~$33
+
+## L Adapter
+
+* [happypopo SLR Camera L-Bracket Vertical and Horizontal](amazon.com/gp/product/B09GB4XKGM/ref=ppx_yo_dt_b_asin_title_o07_s06?ie=UTF8&psc=1) ~$16, good adapter, cheap, however, it is screwed in, but that is stable enough, also allows the lpates to be used individually.
+
+## Macro Rack Material
+
+Gregor' Rack:
+
+* 1 * [CheeMuii 2020 Corner Bracket Kit,20pcs](https://www.amazon.com/gp/product/B098NVHDYM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) ~$19
+* 1 * [BELLA BAYS 4pcs 11.81 inch 300mm 2020 V Slot Aluminum Extrusion](https://www.amazon.com/gp/product/B08TBKLC5S/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1) ~$16
+* 3 * [BELLA BAYS 1pcs 19.69 inch 500mm 2060 V Slot Aluminum Extrusion Profile](https://www.amazon.com/gp/product/B08XXKJZND/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&th=1) ~$18 each
 
 ## Streamers
 

@@ -24,7 +24,7 @@ prices fund Januarry 2022, rounded up to the next dollar value. Shipping cost ma
 * [STACKSHOT MACRO RAIL PACKAGE](https://cognisys-inc.com/stackshot-macro-rail-package.html) ~$579
 * [Black Forest Motion](https://blackforestmotion.com/en/products/macro-slider/) ~€673, Bundle ~€901
 * [Novoflex Castle Micro](https://www.novoflex.de/en/focusing-rack-castel-micro/castel-micro-en.html) ~€1900
-* [AUTO STEP MOTOR STACKING RAIL SYSEM](https://novoflexus.com/auto-step-motor-stacking-rail-sysem/)  ~€3043
+* [Novoflex AUTO STEP MOTOR STACKING RAIL SYSEM](https://novoflexus.com/auto-step-motor-stacking-rail-sysem/)  ~€3043
 
 ### Rental
 

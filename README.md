@@ -55,6 +55,11 @@ I can not attest to if these sites are reputable sites
 ### Microsopy Lenses
 
 
+#### Adapters
+
+* [ebay RMS Thread for Microscope objective to M42 x1mm Converter Cone Adapter FotoHigh](https://www.ebay.com/itm/144442444704) ~$20
+* [ebay M42 to RMS Adapter Ring Microscope Objective RMS Thread to M42 Interface](https://www.ebay.com/itm/273877780529)
+
 ## Extension Tubes
 
 ### Canon EF Mount
@@ -67,6 +72,10 @@ I can not attest to if these sites are reputable sites
 ### RF Mount
 
 * [Meike MK-RF-AF1 13mm + 18mm](https://www.amazon.com/Meike-MK-RF-AF1-Extension-Adapter-Cameras/dp/B07T1CY6BS/ref=sr_1_6?crid=2TRR5CVEO1CV&keywords=Canon+Extension+Tube&qid=1673615882&refinements=p_n_condition-type%3A2224371011&rnid=2224369011&s=electronics&sprefix=canon+extension+tube%2Caps%2C140&sr=1-6) ~$40
+
+### Helicoid
+
+* [Fotasy M42 , various](https://www.amazon.com/Fotasy-Helicord-Focusing-Helicoid-Extention/dp/B00CPUSYLA?th=1) ~$20-$30
 
 ## Software
 

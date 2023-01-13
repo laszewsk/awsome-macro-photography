@@ -2,9 +2,11 @@
 
 This is the awsome macro photography links page. If you like to add things, please either create a pull request or send e-mail to laszewski@gmail.com
 
-## In camera stacking
+## In camera stacking with R7
 
-* [video R7](https://www.youtube.com/watch?v=bJOtUBSCWbQ)
+* [Fabian Fopp video R7 f0cus brackiting](https://www.youtube.com/watch?v=bJOtUBSCWbQ) (German)[https://www.youtube.com/watch?v=dF02EDDsS1w]
+* [Phill THatch](https://www.youtube.com/watch?v=_lSnZARKxrA)
+
 
 ## Macro Rails
 

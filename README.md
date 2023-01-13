@@ -72,6 +72,7 @@ I can not attest to if these sites are reputable sites
 ### RF Mount
 
 * [Meike MK-RF-AF1 13mm + 18mm](https://www.amazon.com/Meike-MK-RF-AF1-Extension-Adapter-Cameras/dp/B07T1CY6BS/ref=sr_1_6?crid=2TRR5CVEO1CV&keywords=Canon+Extension+Tube&qid=1673615882&refinements=p_n_condition-type%3A2224371011&rnid=2224369011&s=electronics&sprefix=canon+extension+tube%2Caps%2C140&sr=1-6) ~$40
+* [Hersmay M42-EOSR M42 to RF Lens Mount Adapter M42 Lens for Canon EOS R R5 R5C R6 RP Full Frame Mirrorless Camera](https://www.amazon.com/gp/product/B08CKR8HJ7/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1)
 
 ### Helicoid
 
@@ -81,6 +82,12 @@ I can not attest to if these sites are reputable sites
 
 * [Helicon](https://www.heliconsoft.com/helicon-remote-stackshot/)
 
+## Selected Arca Swiss Adapters
+
+* [Koolehaoda QR-50B Quick Release Plate Clamp Double Clamp Adapter Compatible for Arca Swiss Plate RRS Rail Plate Nodal Slide Subtend](https://www.amazon.com/gp/product/B096DM6G7H/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) ~$19, has build in lock feature for 180 and 90 degrees, good for macrostand builds with double sides arca swiss
+* [Koolehaoda 400mm Rail Plate Multi-Purpose Dual Rail Quick Release Plate Aluminium Alloy Plate Compatible with Arca Swiss for Camera](https://www.amazon.com/gp/product/B0BJ9B1DHJ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) ~$30, very long, good for macrostand builds
+* [UTEBIT 50mm Arca Swiss Quick Release Plate Aluminum QR Clamp Adapter Set with 3/8"&1/4" Screw Hole and Built-in Bubble Level](https://www.amazon.com/gp/product/B06ZZQSJBN/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1) ~$10, cheap, comes with arca swiss plate
+* [FocusFoto P50 QR Clamp + 1/4" Quick Release Plate Set 50mm Adapter 3/8"](https://www.amazon.com/FocusFoto-Mounting-Universal-Compatible-Manfrotto/dp/B07F7CFZZF/ref=sr_1_14?crid=9NTLI4VHAW0M&keywords=arca+swiss+quick+release&qid=1673617312&s=electronics&sprefix=arca+swiss+quick+release%2Celectronics%2C150&sr=1-14) ~$14, has level instead of screw head, has security pin. 
 
 ## Streamers
 

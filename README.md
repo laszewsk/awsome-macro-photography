@@ -32,8 +32,7 @@ prices fund Januarry 2022, rounded up to the next dollar value. Shipping cost ma
 
 | Image | Price | Description | Shop |
 | --- | --- | --- | --- |
-| <img src="
-https://www.ebay.com/itm/202754159812?_ul=E&nma=true&si=Ld7f2Vi8Xd6v2x0nO%252B0r4Np5rQA%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557" width=100 /> | ~$140 | AUTOMATED MOTORIZED FOCUS STACKING MACRO  | [ebay](https://www.ebay.com/itm/202754159812?_ul=E) |
+| <img src="https://www.ebay.com/itm/202754159812?_ul=E&nma=true&si=Ld7f2Vi8Xd6v2x0nO%252B0r4Np5rQA%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557" width=100 /> | ~$140 | AUTOMATED MOTORIZED FOCUS STACKING MACRO  | [ebay](https://www.ebay.com/itm/202754159812?_ul=E) |
 | <img src="" width=100 />| ~$320 | WeMacro Rail | [WeMacro Rail](https://www.wemacro.com/US/index.php/product/wemacro-rail-with-power-bank-cable-for-outside) |
 | <img src="https://www.wemacro.com/US/wp-content/uploads/2022/11/1600-plug-100x100.jpg" width=100 />| ~$400 | MIOPS Slider+ | It is a slider that functions also as macro rail with 1.41um resolution | [MIOPS](https://www.miops.com/products/slider)  |
 | <img src="https://cognisys-inc.com/media/catalog/product/cache/eeaf703a2c5803a7a444e221440bcbf3/c/o/controller-and-rail-3010-edit.jpg" width=100 />| ~$579 | STACKSHOT MACRO RAIL PACKAGE | [Cognisys](https://cognisys-inc.com/stackshot-macro-rail-package.html) |

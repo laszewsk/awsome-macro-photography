@@ -31,13 +31,13 @@ prices fund Januarry 2022, rounded up to the next dollar value. Shipping cost ma
 
 | Image | Price | Description | Shop |
 | --- | --- | --- | --- |
-| | ~$140 | | [ebay](https://www.ebay.com/itm/202754159812?_ul=EC) 
-| | ~$320 | WeMacro Rail | [WeMacro Rail](https://www.wemacro.com/US/index.php/product/wemacro-rail-with-power-bank-cable-for-outside/) 
-| | ~$400 | MIOPS Slider+ | It is a slider that functions also as macro rail with 1.41um resolution | [MIOPS](https://www.miops.com/products/slider)  
-| | ~$579 | STACKSHOT MACRO RAIL PACKAGE | [Cognisys](https://cognisys-inc.com/stackshot-macro-rail-package.html) 
-| | ~€901 | Black Forest Motion | [Black Forest Motion](https://blackforestmotion.com/en/products/macro-slider/) ~€673, Bundle 
-| | ~€1900 | Novoflex Castle Micro | [Novoflex](https://www.novoflex.de/en/focusing-rack-castel-micro/castel-micro-en.html) 
-| | ~€3043 | Novoflex AUTO STEP MOTOR STACKING RAIL SYSEM | [Novoflex](https://novoflexus.com/auto-step-motor-stacking-rail-sysem/)  
+| <img src="https://ir.ebaystatic.com/pictures/aw/pics/es/co/viewitem/imgEndedCvi_96x96.png" width=100 /> | ~$140 | AUTOMATED MOTORIZED FOCUS STACKING MACRO  | [ebay](https://www.ebay.com/itm/202754159812?_ul=EC) |
+| <img src="" width=100 />| ~$320 | WeMacro Rail | [WeMacro Rail](https://www.wemacro.com/US/index.php/product/wemacro-rail-with-power-bank-cable-for-outside) |
+| <img src="https://www.wemacro.com/US/wp-content/uploads/2022/11/1600-plug-100x100.jpg" width=100 />| ~$400 | MIOPS Slider+ | It is a slider that functions also as macro rail with 1.41um resolution | [MIOPS](https://www.miops.com/products/slider)  |
+| <img src="https://cognisys-inc.com/media/catalog/product/cache/eeaf703a2c5803a7a444e221440bcbf3/c/o/controller-and-rail-3010-edit.jpg" width=100 />| ~$579 | STACKSHOT MACRO RAIL PACKAGE | [Cognisys](https://cognisys-inc.com/stackshot-macro-rail-package.html) |
+| <img src="https://blackforestmotion.com/wp-content/uploads/2021/04/Makro_00006-768x768.jpg" width=100 />| ~€673/~€901 | Black Forest Motion | [Black Forest Motion](https://blackforestmotion.com/en/products/macro-slider/) |
+| <img src="https://www.novoflex.de/isotope/c/castel-micro-set_002.jpg" width=100 />| ~€1900 | Novoflex Castle Micro | [Novoflex](https://www.novoflex.de/en/focusing-rack-castel-micro/castel-micro-en.html) |
+| <img src="https://cdn11.bigcommerce.com/s-namp81u7xj/images/stencil/1000x1000/products/986/283430/hwsyxtxunakjouc6lqns__62596.1673593677.jpg?c=1" width=100 />| ~€3043 | Novoflex AUTO STEP MOTOR STACKING RAIL SYSEM | [Novoflex](https://novoflexus.com/auto-step-motor-stacking-rail-sysem/) | 
 
 ### Rental
 

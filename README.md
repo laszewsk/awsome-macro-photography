@@ -18,7 +18,7 @@ Some tutorials that show how to do this are available on youtube, by various you
 prices fund Januarry 2022, rounded up to the next dollar value. Shipping cost may or may not be included.
 
 | Image | Price | Description | Shop |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | <img src="https://images-na.ssl-images-amazon.com/images/I/71GmFO6XmaL._AC_UL232_SR232,232_.jpg" width=100 /> | ~ $16 | Shoot 4 way, similar to Neewer Pro 4 - plate. Not sure if it is the same. There are many of them that looklike this | [Amazon](https://www.amazon.com/SHOOT-Aluminum-Focusing-Close-up-Photography/dp/B01N0KNK69/ref=sr_1_4?keywords=macro+focusing+rail&qid=1673610984&sr=8-4)
 | <img src="https://images-na.ssl-images-amazon.com/images/I/61syyqqdrtS._AC_UL232_SR232,232_.jpg" width=100/> | $33 | Neewer Worm Drive| [Amazon](https://www.amazon.com/Neewer-Wormdrive-Focusing-Close-up-Shooting/dp/B07FSKRRX9/ref=sr_1_2?crid=IZAZ31O0FAP7&keywords=neewer+worm+drive&qid=1673611150&sprefix=newer+worm+drive%2Caps%2C170&sr=8-2) |
 

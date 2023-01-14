@@ -19,7 +19,7 @@ prices fund Januarry 2022, rounded up to the next dollar value. Shipping cost ma
 
 | Image | Price | Description |
 | --- | --- | --- |
-| ![](https://images-na.ssl-images-amazon.com/images/I/71GmFO6XmaL._AC_UL232_SR232,232_.jpg | width=100) | ~ $16 | [Shoot 4 way ~$16](https://www.amazon.com/SHOOT-Aluminum-Focusing-Close-up-Photography/dp/B01N0KNK69/ref=sr_1_4?keywords=macro+focusing+rail&qid=1673610984&sr=8-4) similar to Neewer Pro 4 - plate. Not sure if it is the same. There are many of them that looklike this |
+| ![](https://images-na.ssl-images-amazon.com/images/I/71GmFO6XmaL._AC_UL232_SR232,232_.jpg width=100) | ~ $16 | [Shoot 4 way ~$16](https://www.amazon.com/SHOOT-Aluminum-Focusing-Close-up-Photography/dp/B01N0KNK69/ref=sr_1_4?keywords=macro+focusing+rail&qid=1673610984&sr=8-4) similar to Neewer Pro 4 - plate. Not sure if it is the same. There are many of them that looklike this |
 
 
 * [Neewer Worm Drive ~$33](https://www.amazon.com/Neewer-Wormdrive-Focusing-Close-up-Shooting/dp/B07FSKRRX9/ref=sr_1_2?crid=IZAZ31O0FAP7&keywords=neewer+worm+drive&qid=1673611150&sprefix=newer+worm+drive%2Caps%2C170&sr=8-2)

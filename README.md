@@ -101,6 +101,7 @@ I can not attest to if these sites are reputable sites
 ## Software
 
 * [Enfuse youtube](https://www.youtube.com/watch?v=Hsc7cOlUxdA)
+* [Enfuse, Matt Jones](https://www.youtube.com/watch?v=4sIgiJqiZYU), has ineffective use of image list, can be simplified with shell script.
 * [Helicon](https://www.heliconsoft.com/helicon-remote-stackshot/)
 
 

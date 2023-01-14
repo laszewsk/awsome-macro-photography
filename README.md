@@ -29,13 +29,15 @@ prices fund Januarry 2022, rounded up to the next dollar value. Shipping cost ma
 
 ### Motorized Macro Rails
 
-* [ebay](https://www.ebay.com/itm/202754159812?_ul=EC) ~$140
-* [WeMacro Rail](https://www.wemacro.com/US/index.php/product/wemacro-rail-with-power-bank-cable-for-outside/) ~$320
-* [MIOPS Slider+](https://www.miops.com/products/slider) ~$400 It is a slider that functions also as macro rail with 1.41um resolution
-* [STACKSHOT MACRO RAIL PACKAGE](https://cognisys-inc.com/stackshot-macro-rail-package.html) ~$579
-* [Black Forest Motion](https://blackforestmotion.com/en/products/macro-slider/) ~€673, Bundle ~€901
-* [Novoflex Castle Micro](https://www.novoflex.de/en/focusing-rack-castel-micro/castel-micro-en.html) ~€1900
-* [Novoflex AUTO STEP MOTOR STACKING RAIL SYSEM](https://novoflexus.com/auto-step-motor-stacking-rail-sysem/)  ~€3043
+| Image | Price | Description | Shop |
+| --- | --- | --- | --- |
+| | ~$140 | | [ebay](https://www.ebay.com/itm/202754159812?_ul=EC) 
+| | ~$320 | WeMacro Rail | [WeMacro Rail](https://www.wemacro.com/US/index.php/product/wemacro-rail-with-power-bank-cable-for-outside/) 
+| | ~$400 | MIOPS Slider+ | It is a slider that functions also as macro rail with 1.41um resolution | [MIOPS](https://www.miops.com/products/slider)  
+| | ~$579 | STACKSHOT MACRO RAIL PACKAGE | [Cognisys](https://cognisys-inc.com/stackshot-macro-rail-package.html) 
+| | ~€901 | Black Forest Motion | [Black Forest Motion](https://blackforestmotion.com/en/products/macro-slider/) ~€673, Bundle 
+| | ~€1900 | Novoflex Castle Micro | [Novoflex](https://www.novoflex.de/en/focusing-rack-castel-micro/castel-micro-en.html) 
+| | ~€3043 | Novoflex AUTO STEP MOTOR STACKING RAIL SYSEM | [Novoflex](https://novoflexus.com/auto-step-motor-stacking-rail-sysem/)  
 
 ### Rental
 

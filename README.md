@@ -1,6 +1,16 @@
-# awsome-macro-photography links
+# awsome-macro-photography links for Canon R7 and others
 
 This is the awsome macro photography links page. If you like to add things, please either create a pull request or send e-mail to laszewski@gmail.com
+
+## Camera CCAPI
+
+* Canon video ccapi wifi <https://www.youtube.com/watch?v=NwFHUGYzC3Y>
+* Canon video SDK usb <https://www.youtube.com/watch?v=aqW9pM0Je7Q>
+
+## Camera Cannon issue with Ventura
+
+* EOS utility 3, does not work on macOS 13 with apple silicone <https://community.usa.canon.com/t5/Camera-Software/In-compatibility-of-EOS-Utility-with-MacOS-Ventura/m-p/394189#M13844>
+* CCAPI activation does not work on macOS 13 with apple silicone
 
 ## In camera bracketing  with R7
 
@@ -38,6 +48,12 @@ prices fund Januarry 2022, rounded up to the next dollar value. Shipping cost ma
 | MR5 | <img src="images/blackforestmacro.jpg" width=100 /> | €673/€901 | Black Forest Motion | [Black Forest Motion](https://blackforestmotion.com/en/products/macro-slider/) |
 | MR6 | <img src="images/novoflex-castle.jpg" width=100 /> | €1900 | Novoflex Castle Micro | [Novoflex](https://www.novoflex.de/en/focusing-rack-castel-micro/castel-micro-en.html) |
 | MR7 | <img src="images/nooflex-auto.jpg" width=100 /> | €3043 | Novoflex AUTO STEP MOTOR STACKING RAIL SYSEM | [Novoflex](https://novoflexus.com/auto-step-motor-stacking-rail-sysem/) | 
+
+## Plates and quickreleases
+
+| ID  | Mount     | Image                                          | Price | Description                                               | Shop                                                                                                                                                                                                                                                                                     |
+|-----|-----------|------------------------------------------------|-------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| P1  | ArcaSwiss | <img src="images/arca-double.jpg" width=100 /> | $19   | Koolehaoda QR-50B Quick Release Plate Clamp Double Clamp  | [Amazon](https://www.amazon.com/gp/product/B096DM6G7H/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&th=1) |
 
 ### Rental
 
@@ -87,23 +103,47 @@ not a silver one.
 
 ## Fixed Length Extension Tubes
 
-| ID  | Mount        | Image                                              | Price | Description                                                                                                                                                                                    | Shop                                                                                                    |
-|-----|--------------|----------------------------------------------------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| E1  | M42 Manual   | <img src="images/m42-long.jpg"  width=100 />       | $26   | M42 Extension Tubes 3/5/7/10/15/20/30mm.  Warning, the 30 and 20mm did not fit properly in the m42 mount, but they do fit between each other. you need to find a combination that fits nicely. | [Amazon](https://www.amazon.com/gp/product/B09C11L5QL/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 
-| E2  | M42 Manual   | <img src="images/s-l64.jpg"  width=100 />          | $9    | Neewer Aluminum Alloy Lens Mount Adapter for M42 Lens to Canon EOS Camera                                                                                                                      | [Amazon](https://www.amazon.com/gp/product/B01HPMY8YE/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-| E3  | EF Automatic | <img src="images/ext-kenko.jpg"  width=100 />      | $140/$75 used | Kenko AF Set                  |[Amazon](https://www.amazon.com/Kenko-Auto-Extension-Canon-Mount/dp/B000U8Y88M)  
-| E4  | EF Automatic | <img src="images/ext-canon-12.jpg"  width=100 />   | $90                                           | Canon Extension Tube EF 12 II |[Canon](https://www.amazon.com/Canon-Extension-Tube-Digital-Cameras/dp/B0000DZ5OE/ref=sr_1_1?crid=BXWP4VPTAYYE&keywords=Canon+Extension+Tube+EF+12+II&qid=1673616039&sprefix=canon+extension+tube+ef+12+ii%2Caps%2C108&sr=8-1)
-| E5  | EF Automatic | <img src="images/ext-cannon-25.jpg"  width=100 />  | $125-$145                                        | Canon Extension Tube EF 25 II |[Canon](https://www.amazon.com/Canon-Extension-Tube-Digital-Cameras/dp/B0000U1N38/ref=sr_1_3?crid=1JKOJ6RS20Y94&keywords=Canon+Extension+Tube+EF+25+II&qid=1673615812&sprefix=canon+extension+tube+ef+25+ii%2Caps%2C158&sr=8-3&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0) 
-| ERF1 | RF Automatic | <img src="images/ext-rf-meike.jpg"  width=100 />   | $40   |Meike MK-RF-AF1 13mm + 18mm| [Amazon](https://www.amazon.com/Meike-MK-RF-AF1-Extension-Adapter-Cameras/dp/B07T1CY6BS/ref=sr_1_6?crid=2TRR5CVEO1CV&keywords=Canon+Extension+Tube&qid=1673615882&refinements=p_n_condition-type%3A2224371011&rnid=2224369011&s=electronics&sprefix=canon+extension+tube%2Caps%2C140&sr=1-6) 
-| ERF2 | RF Automatic | <img src="images/adapter-m42-rf.png"  width=100 /> | $12                                               | Hersmay M42-EOSR M42 to RF Lens Mount Adapter M42 Lens for Canon EOS R R5 R5C R6 RP Full Frame Mirrorless Camera |[Amazon](https://www.amazon.com/gp/product/B08CKR8HJ7/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1)
+| ID   | Mount            | Image                                             | Price          | Description                                                                                                                                                                                    | Shop                                                                                                                                                                                                                                                                                     |
+|------|------------------|---------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| E1   | M42 Manual       | <img src="images/m42-long.jpg" width=100 />       | $26            | M42 Extension Tubes 3/5/7/10/15/20/30mm.  Warning, the 30 and 20mm did not fit properly in the m42 mount, but they do fit between each other. you need to find a combination that fits nicely. | [Amazon](https://www.amazon.com/gp/product/B09C11L5QL/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)                                                                                                                                                                                  
+| E2   | M42 Manual       | <img src="images/s-l64.jpg" width=100 />          | $9             | Neewer Aluminum Alloy Lens Mount Adapter for M42 Lens to Canon EOS Camera                                                                                                                      | [Amazon](https://www.amazon.com/gp/product/B01HPMY8YE/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)                                                                                                                                                                                  
+| E3   | EF Automatic     | <img src="images/ext-kenko.jpg" width=100 />      | $140/$75 used  | Kenko AF Set                                                                                                                                                                                   | [Amazon](https://www.amazon.com/Kenko-Auto-Extension-Canon-Mount/dp/B000U8Y88M)                                                                                                                                                                                                          
+| E4   | EF Automatic     | <img src="images/ext-canon-12.jpg" width=100 />   | $90            | Canon Extension Tube EF 12 II                                                                                                                                                                  | [Canon](https://www.amazon.com/Canon-Extension-Tube-Digital-Cameras/dp/B0000DZ5OE/ref=sr_1_1?crid=BXWP4VPTAYYE&keywords=Canon+Extension+Tube+EF+12+II&qid=1673616039&sprefix=canon+extension+tube+ef+12+ii%2Caps%2C108&sr=8-1)                                                           
+| E5   | EF Automatic     | <img src="images/ext-cannon-25.jpg" width=100 />  | $125-$145      | Canon Extension Tube EF 25 II                                                                                                                                                                  | [Canon](https://www.amazon.com/Canon-Extension-Tube-Digital-Cameras/dp/B0000U1N38/ref=sr_1_3?crid=1JKOJ6RS20Y94&keywords=Canon+Extension+Tube+EF+25+II&qid=1673615812&sprefix=canon+extension+tube+ef+25+ii%2Caps%2C158&sr=8-3&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0) 
+| ERF1 | RF Automatic     | <img src="images/ext-rf-meike.jpg" width=100 />   | $40            | Meike MK-RF-AF1 13mm + 18mm, The rings are a bit wobbely                                                                                                                                       | [Amazon](https://www.amazon.com/Meike-MK-RF-AF1-Extension-Adapter-Cameras/dp/B07T1CY6BS/ref=sr_1_6?crid=2TRR5CVEO1CV&keywords=Canon+Extension+Tube&qid=1673615882&refinements=p_n_condition-type%3A2224371011&rnid=2224369011&s=electronics&sprefix=canon+extension+tube%2Caps%2C140&sr=1-6) 
+| ERF2 | RF Automatic     | <img src="images/adapter-m42-rf.png" width=100 /> | $12            | Hersmay M42-EOSR M42 to RF Lens Mount Adapter M42 Lens for Canon EOS R R5 R5C R6 RP Full Frame Mirrorless Camera                                                                               | [Amazon](https://www.amazon.com/gp/product/B08CKR8HJ7/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1)                                                                                                                                                                                   
+| E6   | M42 Manual       | <img src="images/fotasy-m42-rf.jpg" width=100 />  | $14            | Fotasy M42 to Cannon EOS RF                                                                                                                                                                    | [Amazon](https://www.amazon.com/gp/product/B07KZ877K7/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)                                                                                                                                                                                  
+| E7   | T and M42 Manual | <img src="images/t-m42.jpg" width=100 />          | $9             | Metal T2 to M42 Male to Female 42mm                                                                                                                                                            | (Amazon)[https://www.amazon.com/gp/product/B07QFS4WW9/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1]                                                                                                                                                                                  | 
+| E8   | T to RF Manual   | <img src="images/t-rf-body.jpg" width=100 />      | $13            | Fotasy Adjustable T2 T Mount Lens to Cannon EOS RF Adapter                                                                                                                                     | (Amazon)[https://www.amazon.com/gp/product/B07Q279XF8/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&psc=1]                                                                                                                                                                                      | 
+
+
 
 ### Variable Extensions
 
-| ID  | Mount                                                | Image                                            | Price   | Description               | Shop                                                                                                    |
-|-----|------------------------------------------------------|--------------------------------------------------|---------|---------------------------|---------------------------------------------------------------------------------------------------------|
-| V1  | M42 | <img src="images/helicoid-m42.jpg"  width=100 /> | $20-$30 | Fotasy M42 Helicoid       | [Amazon](https://www.amazon.com/Fotasy-Helicord-Focusing-Helicoid-Extention/dp/B00CPUSYLA?th=1) 
-| V2  | EOS |<img src="images/bellows-vbestlife.jpg"  width=100 /> | $32 | Vbestlife Macro Bellows. $Not that stable, but good if you like to change macro factor. Not automatic. The screw that fixes it needs to be screwed in and out multiple times so that it loks to the plastic beam.  | [Amazon](https://www.amazon.com/gp/product/B07PZ86Q15/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1) 
+| ID  | Mount | Image                                                 | Price   | Description                                                                                                                                                                                                       | Shop                                                                                                    |
+|-----|-------|-------------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| V1  | M42   | <img src="images/helicoid-m42.jpg"  width=100 />      | $20-$30 | Fotasy M42 Helicoid                                                                                                                                                                                               | [Amazon](https://www.amazon.com/Fotasy-Helicord-Focusing-Helicoid-Extention/dp/B00CPUSYLA?th=1)         |
+| V2  | EOS   | <img src="images/bellows-vbestlife.jpg"  width=100 /> | $32     | Vbestlife Macro Bellows. Not that stable, but good if you like to change macro factor. Not automatic. The screw that fixes it needs to be screwed in and out multiple times so that it loks to the plastic beam.  | [Amazon](https://www.amazon.com/gp/product/B07PZ86Q15/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1) |
  
+
+
+### Flash
+
+| ID  | Mount | Image                                               | Price | Description    | Shop                                                                                                    |
+|-----|-------|-----------------------------------------------------|-------|----------------|---------------------------------------------------------------------------------------------------------|
+| F1  | Canon | <img src="images/mk320-flash.jpg"  width=100 />     | $70   | Meike MK-320C  | [Amazon](https://www.amazon.com/gp/product/B01N7LWTCZ/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) 
+| F2  | Canon | <img src="images/jjc-flash-cover.jpg"  width=100 /> | $8    | R7 Flash cover | [Amazon](https://www.amazon.com/gp/product/B0BCPC1RTP/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&th=1)
+
+
+### Electric
+
+| ID  | Mount | Image                                              | Price | Description    | Shop                                                                                                    |
+|-----|-------|----------------------------------------------------|-------|----------------|---------------------------------------------------------------------------------------------------------|
+| E1  | Canon | <img src="images/usbc-90-degree.jpg"  width=100 /> | $14   | USB C Right Angle Adapter (4 Pack) | [Amazon](https://www.amazon.com/gp/product/B0BBQX4SDR/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&th=1) |
+
+https://www.amazon.com/gp/product/B0BBQX4SDR/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&th=1
+
+
 ## Software
 
 * [Enfuse youtube](https://www.youtube.com/watch?v=Hsc7cOlUxdA)
@@ -145,3 +185,18 @@ Gregor' Rack:
 * [Allan Walls Youtube](https://www.youtube.com/@AllanWallsPhotography)
   [Allen Walls Web Site](https://www.allanwallsphotography.com/) 
 * [Micael Widell Youtube](https://www.youtube.com/@MicaelWidell)
+
+## Links
+
+* <https://blekenbleu.github.io/microscope/macro_links.htm>
+
+## TODO
+
+Links not yet checked
+
+Cloudmakers (not tested):
+
+* ~$22 each:
+  * AstroDSLR <https://www.cloudmakers.eu/astrodslr>
+  * MacroDSLR <https://www.cloudmakers.eu/macrodslr>
+  * <https://youtu.be/cHQSUTkdk1E>
